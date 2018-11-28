@@ -1,0 +1,18 @@
+{
+    "name": "Audio",
+    "provides": "Audio.h",
+    "description": "Allows playing audio files from an SD card. For Arduino DUE only.",
+    "version": "1.0.5",
+    "maintainer": "Arduino <info@arduino.cc>",
+    "category": "Audio",
+    "subcategory": "Control",
+    "family": "arm-sam",
+    "core": "arduino-sam",
+    "install": {
+        "examples": "/",
+        "keywords.txt": "/",
+        "library.properties": "/",
+        "src": "/"
+    },
+    "readme": "README.adoc"
+}
